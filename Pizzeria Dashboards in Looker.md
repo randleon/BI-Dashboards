@@ -1,9 +1,6 @@
 [Interactive Pizza Database Dashboard project](https://lookerstudio.google.com/s/t-pqjqEgIKg)
 
-<iframe 
-  src="https://docs.google.com/document/d/e/2PACX-1vS_f50-7xEwbKd33krZSWl0_pjQ2Ov4dLBi6HNxC2EunnQiLPWbzhimlLFYaQtZcq_NTUSo6fIuk5oO/pub?embedded=true">
-  
-</iframe>
+<picture><a href="https://imgbox.com/d7YWX2At" target="_blank"><img src="https://thumbs2.imgbox.com/84/f9/d7YWX2At_t.png" alt="image host"/></a></picture> 
 
 
 [Built like Adam Finer's on Youtube](https://youtu.be/0rB_memC-dA?si=ytgUTIclOAXuPmqJ)
