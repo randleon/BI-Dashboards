@@ -1,4 +1,4 @@
-[[Interactive Pizza Database Dashboard project](https://lookerstudio.google.com/s/t-pqjqEgIKg)]
+[Interactive Pizza Database Dashboard project](https://lookerstudio.google.com/s/t-pqjqEgIKg)
 
 [Built like Adam Finer's on Youtube](https://youtu.be/0rB_memC-dA?si=ytgUTIclOAXuPmqJ)
 
