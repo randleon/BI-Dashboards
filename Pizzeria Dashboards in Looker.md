@@ -18,6 +18,6 @@ Tools used:
 
 -[Google Cloud/Google Cloud for SQL](https://cloud.google.com/sql)]
 
--[Google Looker Studio](https://lookerstudio.google.com/overview)https://lookerstudio.google.com/overview
+-[Google Looker Studio](https://lookerstudio.google.com/overview)
 
 
